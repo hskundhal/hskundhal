@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harpreet
-- 👀 I’m interested in trading, coding, DIY and automations.
+- 👀 I’m interested in coding, DIY and automations.
 - 📫 How to reach me ...  email hskundhal@gmail.com
 
 <!---
